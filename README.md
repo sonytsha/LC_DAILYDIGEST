@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Depth-First Search
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
@@ -43,5 +47,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
