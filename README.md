@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3225-maximum-score-from-grid-operations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3225-maximum-score-from-grid-operations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3225-maximum-score-from-grid-operations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3225-maximum-score-from-grid-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3225-maximum-score-from-grid-operations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3225-maximum-score-from-grid-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3225-maximum-score-from-grid-operations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3225-maximum-score-from-grid-operations) |
 <!---LeetCode Topics End-->
