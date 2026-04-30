@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0695-max-area-of-island) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3225-maximum-score-from-grid-operations) |
 ## Prefix Sum
 |  |
