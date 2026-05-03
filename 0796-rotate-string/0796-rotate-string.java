@@ -5,4 +5,11 @@ class Solution {
         return newString.contains(s);
     }
 }
-// cdeabcdeab 
+/* 
+
+abcde -> cdeab
+bcdea -> cdeab
+cdeab -> cdeab 
+*/
+
+/* cdeabcdeab */
