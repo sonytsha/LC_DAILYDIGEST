@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0079-word-search) |
+| [0796-rotate-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1021-remove-outermost-parentheses) |
 | [1496-path-crossing](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1496-path-crossing) |
 ## Array
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3225-maximum-score-from-grid-operations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3225-maximum-score-from-grid-operations) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
