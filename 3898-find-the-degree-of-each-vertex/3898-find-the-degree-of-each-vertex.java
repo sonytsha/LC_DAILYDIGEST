@@ -6,12 +6,8 @@ class Solution {
            for(int j=0;j<len;j++){
                 if(matrix[i][j] == 1 && i!=j){
                     ans[i]++;
-                    ans[j]++;
                 }
            }
-        }
-        for(int i=0;i<len;i++){
-            ans[i] = ans[i]/2;
         }
            return ans;
     }
