@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0015-3sum) |
+| [0074-search-a-2d-matrix](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0200-number-of-islands) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
