@@ -34,7 +34,7 @@ class Solution {
             if(curr1 == start){
                 if(temp[curr2] == true){
                     cycle = true;
-                    break;
+                    return;
                 }
                 if(!visited[curr2]){
                     dfs(curr2, prerequisites, visited, temp, stack);
