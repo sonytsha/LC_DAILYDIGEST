@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0695-max-area-of-island) |
+| [0802-find-eventual-safe-states](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0695-max-area-of-island) |
+| [0802-find-eventual-safe-states](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
@@ -158,9 +160,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
