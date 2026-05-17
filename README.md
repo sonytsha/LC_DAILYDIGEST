@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0396-rotate-function) |
 | [0695-max-area-of-island](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
+| [1306-jump-game-iii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1306-jump-game-iii) |
 | [1539-kth-missing-positive-number](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0695-max-area-of-island) |
 | [0802-find-eventual-safe-states](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
+| [1306-jump-game-iii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0695-max-area-of-island) |
 | [0802-find-eventual-safe-states](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
+| [1306-jump-game-iii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
