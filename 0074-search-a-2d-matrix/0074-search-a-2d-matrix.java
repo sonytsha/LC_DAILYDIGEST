@@ -1,11 +1,16 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        for(int i=0;i<matrix.length;i++){
-            for(int j=0;j<matrix[0].length;j++){
-                if(matrix[i][j] == target){
-                    return true;
-                }
-            }
+        int row = matrix.length;
+        int col = matrix[0].length;
+        int start = 0 ;
+        int end = (row*col)-1; // flatten to 1d
+        while(start <= end){
+            int mid = (start+end)/2;
+            // Formula to convert a 1D index back to [row][col] coordinates
+            int curr = matrix[mid/col][mid%col];
+            if(curr == target) return true;
+            if(curr> target) end = mid -1;
+            else start = mid+1;
         }
         return false;
     }
