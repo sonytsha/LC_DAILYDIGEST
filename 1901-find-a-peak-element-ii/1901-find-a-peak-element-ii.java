@@ -3,7 +3,7 @@ class Solution {
         int row = mat.length;
         int col = mat[0].length;
         int[] rowcol = new int[2];
-        int digit = Integer.MAX_VALUE;
+      //  int digit = Integer.MAX_VALUE;
         for(int i=0;i<row;i++){
             for(int j=0;j<col;j++){
                 int curr = mat[i][j];
@@ -11,12 +11,12 @@ class Solution {
                     (i == row - 1 || curr > mat[i+1][j]) && 
                     (j == 0 || curr > mat[i][j-1]) && 
                     (j == col - 1 || curr > mat[i][j+1])){
-                    System.out.println("getting in");
-                    System.out.println("rowcol[0] gi : " + rowcol[0]);
-                    System.out.println("rowcol[1] gi : " + rowcol[1]);
+                    // System.out.println("getting in");
+                    // System.out.println("rowcol[0] gi : " + rowcol[0]);
+                    // System.out.println("rowcol[1] gi : " + rowcol[1]);
                     rowcol[0] = i;
                     rowcol[1] = j;
-                    digit = curr;
+                   // digit = curr;
                 }
             }
         }
