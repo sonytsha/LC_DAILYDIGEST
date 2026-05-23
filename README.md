@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0079-word-search) |
+| [0678-valid-parenthesis-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1021-remove-outermost-parentheses) |
 | [1496-path-crossing](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1496-path-crossing) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0396-rotate-function) |
+| [0678-valid-parenthesis-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0788-rotated-digits) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3225-maximum-score-from-grid-operations) |
 ## Prefix Sum
@@ -188,5 +191,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
