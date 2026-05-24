@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0396-rotate-function) |
 | [0695-max-area-of-island](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0860-lemonade-change) |
 | [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1306-jump-game-iii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0396-rotate-function) |
 | [0678-valid-parenthesis-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1340-jump-game-v) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3225-maximum-score-from-grid-operations) |
