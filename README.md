@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0035-search-insert-position) |
+| [0064-minimum-path-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0118-pascals-triangle) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0130-surrounded-regions) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0198-house-robber) |
