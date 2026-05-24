@@ -1,5 +1,21 @@
 class Solution {
     public int uniquePaths(int m, int n) {
+        long result = 1;
+        int totalMoves = m + n - 2;
+        int downMoves = m - 1; 
+        
+        // Calculate combination paths: Selecting 'downMoves' from 'totalMoves'
+        for (int i = 1; i <= downMoves; i++) {
+            result = result * (totalMoves - downMoves + i) / i;
+        }
+        
+        return (int) result;
+    }
+}
+
+/*
+class Solution {
+    public int uniquePaths(int m, int n) {
         int[] dp = new int[n];
         Arrays.fill(dp,1);
         for(int i=1;i<m;i++){
@@ -10,7 +26,7 @@ class Solution {
         return dp[n-1];
     }
 }
-
+*/
 
 /* 
 class Solution {
