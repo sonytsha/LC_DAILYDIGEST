@@ -9,19 +9,19 @@ class Solution {
             if(ch == ' '){
                 if(!substring.equals("")){
                 substring = substring.trim();
-                System.out.println("substring 1 " + substring);
+            //    System.out.println("substring 1 " + substring);
                 ans = ans + substring;
-                System.out.println("ans is " + ans);
+                //System.out.println("ans is " + ans);
                 ans = ans + " ";
                 substring = "";
                 }
             }
             else{
                 substring = ch + substring;
-                System.out.println("subs 2 " + substring);
+              //  System.out.println("subs 2 " + substring);
             }
         }
-                System.out.println("substring 1 " + substring);
+              //  System.out.println("substring 1 " + substring);
                 ans = ans + substring;
         return ans;
     }
