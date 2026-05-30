@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0451-sort-characters-by-frequency) |
 | [1496-path-crossing](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1496-path-crossing) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0079-word-search) |
+| [0451-sort-characters-by-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1021-remove-outermost-parentheses) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0015-3sum) |
+| [0451-sort-characters-by-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0451-sort-characters-by-frequency) |
 | [1340-jump-game-v](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1340-jump-game-v) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Dynamic Programming
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0451-sort-characters-by-frequency) |
 | [3866-first-unique-even-element](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
@@ -221,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0062-unique-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
