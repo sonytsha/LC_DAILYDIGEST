@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1496-path-crossing) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1903-largest-odd-number-in-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0788-rotated-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1903-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Sorting
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0860-lemonade-change) |
+| [1903-largest-odd-number-in-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2126-destroying-asteroids) |
 ## Combinatorics
 |  |
