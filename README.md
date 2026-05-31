@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0451-sort-characters-by-frequency) |
 | [1496-path-crossing](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1496-path-crossing) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0396-rotate-function) |
 | [0695-max-area-of-island](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0733-flood-fill) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0451-sort-characters-by-frequency) |
 | [1340-jump-game-v](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1340-jump-game-v) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3866-first-unique-even-element](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3866-first-unique-even-element) |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -248,13 +253,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0451-sort-characters-by-frequency) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0014-longest-common-prefix) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
