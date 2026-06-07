@@ -15,36 +15,35 @@
  */
 class Solution {
     public TreeNode createBinaryTree(int[][] descriptions) {
-        Map<Integer, TreeNode> map = new HashMap<>();
-        Set<Integer> children = new HashSet<>();
+        TreeNode[] nodes = new TreeNode[100001];
+        boolean[] child = new boolean[1000001];
+
         for(int i=0;i<descriptions.length;i++){
             int parent = descriptions[i][0];
-            int child = descriptions[i][1];
+            int kid = descriptions[i][1];
             int isLeft = descriptions[i][2];
 
-            if(!map.containsKey(child)){
-                map.put(child, new TreeNode(child));
-            }
-            if(!map.containsKey(parent)){
-                map.put(parent, new TreeNode(parent));
+            if(nodes[parent] == null){
+                nodes[parent] = new TreeNode(parent);
             }
 
-            TreeNode parentNode = map.get(parent);
-            TreeNode childNode = map.get(child);
+            if(nodes[kid] == null){
+                nodes[kid] = new TreeNode(kid);
+            }
 
             if(isLeft == 1){
-                parentNode.left = childNode;
+                nodes[parent].left = nodes[kid];
             }
             else{
-                parentNode.right = childNode;
+                nodes[parent].right = nodes[kid];
             }
-            children.add(child);
+
+            child[kid] = true;
         }
 
-        for(int key : map.keySet()){
-            if(!children.contains(key)){
-                // means its root
-                    return map.get(key);
+        for(int i=1;i<=1000001;i++){
+            if(nodes[i] != null && !child[i]){
+                return nodes[i];
             }
         }
 
