@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0451-sort-characters-by-frequency) |
 | [1496-path-crossing](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1496-path-crossing) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3866-first-unique-even-element](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3866-first-unique-even-element) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -284,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
