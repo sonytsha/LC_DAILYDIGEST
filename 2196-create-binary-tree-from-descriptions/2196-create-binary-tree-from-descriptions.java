@@ -1,18 +1,23 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+public class TreeNode{
+    int val;
+    TreeNode left;
+    TreeNode right;
+    TreeNode(){}
+    TreeNode(TreeNode right, TreeNode left){
+        this.right= right;
+        this.left = left;
+    }
+    TreeNode(int val){
+        this.val = val;
+    }
+    TreeNode(int val, TreeNode right, TreeNode left){
+        this.val = val;
+        this.right= right;
+        this.left = left;
+    }
+ }
+
+
 class Solution {
     public TreeNode createBinaryTree(int[][] descriptions) {
         TreeNode[] nodes = new TreeNode[100001];
