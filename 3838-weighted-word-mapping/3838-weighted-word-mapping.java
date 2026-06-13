@@ -1,7 +1,6 @@
 class Solution {
     public String mapWordWeights(String[] words, int[] weights) {
         int len = words.length;
-        int[] hold = new int[len];
         StringBuilder ans = new StringBuilder(len);
         for(int i=0;i<len;i++){
             int count = 0;
@@ -13,9 +12,7 @@ class Solution {
                 count += weights[curr1-'a'];
                // System.out.println("count " + count);
             }
-            hold[i] = (count % 26);
-            char ch = (char) ('z' - hold[i]);
-            ans.append(ch);
+            ans.append((char) ('z' - (count % 26)));
            // System.out.println("hold[i] is " + i + " " + hold[i]);
         }
         return ans.toString();
