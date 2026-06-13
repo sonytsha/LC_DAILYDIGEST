@@ -2,6 +2,7 @@ class Solution {
     public String mapWordWeights(String[] words, int[] weights) {
         int len = words.length;
         int[] hold = new int[len];
+        String ans = "";
         for(int i=0;i<len;i++){
             int count = 0;
             String curr = words[i];
@@ -13,16 +14,9 @@ class Solution {
                // System.out.println("count " + count);
             }
             hold[i] = (count % 26);
-           // System.out.println("hold[i] is " + i + " " + hold[i]);
-        }
-
-        String ans = "";
-        for(int i=0;i<len;i++){
             char ch = (char) ('z' - hold[i]);
-           // System.out.println("ch is " + ch);
-
             ans += ch;
-           // System.out.println("ans is " + ans);
+           // System.out.println("hold[i] is " + i + " " + hold[i]);
         }
         return ans;
     }
