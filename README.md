@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1903-largest-odd-number-in-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3838-weighted-word-mapping](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3689-maximum-total-subarray-value-i) |
+| [3838-weighted-word-mapping](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3866-first-unique-even-element) |
 | [3903-smallest-stable-index-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3903-smallest-stable-index-i) |
 ## Depth-First Search
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3838-weighted-word-mapping) |
 ## Graph Theory
 |  |
 | ------- |
