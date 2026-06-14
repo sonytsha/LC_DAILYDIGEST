@@ -14,17 +14,16 @@ class Solution {
         ListNode curr = head;
         int len = length(curr);
         curr = head;
-        int[][] arr = new int[len][2];
-        int i = 0;
+        int[] arr = new int[len];
+        int i=0;
         while(curr!=null){
-            arr[i][0] = i;
-            arr[i][1] = curr.val;
+            arr[i] = curr.val;
             curr = curr.next;
             i++;
         }
         int maxi = 0;
         for(int j=0;j<len/2;j++){
-            int sum = arr[j][1] + arr[len-1-j][1];
+            int sum = arr[j] + arr[len-1-j];
             maxi = Math.max(maxi, sum);
         }
         return maxi;
