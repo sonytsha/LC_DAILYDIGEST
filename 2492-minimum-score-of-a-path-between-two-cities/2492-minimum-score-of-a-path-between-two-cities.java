@@ -1,4 +1,48 @@
+// DFS 
+
 class Solution {
+
+    class Pair{
+        int city;
+        int weight;
+        Pair(int city, int weight){
+            this.city = city;
+            this.weight = weight;
+        }
+    }
+    int ans = Integer.MAX_VALUE;
+    public int minScore(int n, int[][] roads) {
+        ArrayList<Pair>[] graph = new ArrayList[n+1];
+
+        for(int i=1;i<=n;i++){
+            graph[i] = new ArrayList<>();
+        }
+
+        for(int i=0;i<roads.length;i++){
+            int u = roads[i][0];
+            int v = roads[i][1];
+            int w = roads[i][2];
+
+            graph[u].add(new Pair(v,w));
+            graph[v].add(new Pair(u,w));
+        }
+        boolean[] visited = new boolean[n + 1];
+        dfs(1, graph, visited);
+        return ans;
+    }
+
+    public void dfs(int node, ArrayList<Pair>[] graph, boolean[] visited){
+        visited[node] = true;
+        for(Pair next : graph[node]){
+            ans = Math.min(ans, next.weight);
+            if(!visited[next.city]){
+                dfs(next.city, graph, visited);
+            }
+        }
+    }
+}
+
+/* BFS : class Solution {
 
     class Pair{
         int city;
@@ -47,7 +91,7 @@ class Solution {
     }
 }
 
-
+*/
 /* TLE 
 
 class Solution {
