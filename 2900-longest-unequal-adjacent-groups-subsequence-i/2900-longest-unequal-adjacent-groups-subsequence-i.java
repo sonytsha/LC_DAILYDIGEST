@@ -3,15 +3,11 @@ class Solution {
         List<String> ans = new ArrayList<>();
         int len = words.length;
         ans.add(words[0]);
+        int lastGroup = groups[0];
         for(int i=1;i<len;i++){
-            int prev = groups[i-1];
-            int curr = groups[i];
-            if(prev!=curr){
+            if(groups[i] != lastGroup){
                 ans.add(words[i]);
-                prev++; curr++;
-            }
-            else{
-                continue;
+                lastGroup = groups[i];
             }
         }
         return ans;
@@ -25,3 +21,4 @@ class Solution {
 0 1 0 0 0 1 1 
 
 */
+
