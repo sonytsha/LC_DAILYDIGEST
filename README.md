@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3838-weighted-word-mapping](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3838-weighted-word-mapping) |
 ## Array
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0788-rotated-digits) |
 | [1143-longest-common-subsequence](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1143-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1340-jump-game-v) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3225-maximum-score-from-grid-operations) |
 ## Prefix Sum
 |  |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3689-maximum-total-subarray-value-i) |
 ## Combinatorics
