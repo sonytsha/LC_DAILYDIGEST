@@ -1,57 +1,52 @@
-public class TreeNode{
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(){}
-    TreeNode(TreeNode right, TreeNode left){
-        this.right= right;
-        this.left = left;
-    }
-    TreeNode(int val){
-        this.val = val;
-    }
-    TreeNode(int val, TreeNode right, TreeNode left){
-        this.val = val;
-        this.right= right;
-        this.left = left;
-    }
- }
-
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
     public TreeNode createBinaryTree(int[][] descriptions) {
-        TreeNode[] nodes = new TreeNode[100001];
-        boolean[] child = new boolean[1000001];
-
+        TreeNode root = new TreeNode(0);
+        HashMap<Integer, TreeNode> map = new HashMap<>();
+        Set<Integer> children = new HashSet<>();
         for(int i=0;i<descriptions.length;i++){
             int parent = descriptions[i][0];
-            int kid = descriptions[i][1];
+            int child = descriptions[i][1];
             int isLeft = descriptions[i][2];
 
-            if(nodes[parent] == null){
-                nodes[parent] = new TreeNode(parent);
+            if(!map.containsKey(parent)){
+                map.put(parent, new TreeNode(parent));
             }
 
-            if(nodes[kid] == null){
-                nodes[kid] = new TreeNode(kid);
+            if(!map.containsKey(child)){
+                map.put(child, new TreeNode(child));
             }
+
+            TreeNode parentNode = map.get(parent);
+            TreeNode childNode = map.get(child);
 
             if(isLeft == 1){
-                nodes[parent].left = nodes[kid];
+                parentNode.left = childNode;
             }
             else{
-                nodes[parent].right = nodes[kid];
+                parentNode.right = childNode;
             }
-
-            child[kid] = true;
-        }
-
-        for(int i=1;i<=1000001;i++){
-            if(nodes[i] != null && !child[i]){
-                return nodes[i];
+            children.add(child);
             }
-        }
-
-        return null;
+            for(int key : map.keySet()){
+                if(!children.contains(key)){
+                    return map.get(key);
+                }
+            }
+            return null;
     }
 }
