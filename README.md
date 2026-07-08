@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3838-weighted-word-mapping](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3838-weighted-word-mapping) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3689-maximum-total-subarray-value-i) |
