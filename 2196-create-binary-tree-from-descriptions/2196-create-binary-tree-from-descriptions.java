@@ -50,3 +50,31 @@ class Solution {
             return null;
     }
 }
+
+/* 
+
+Create Binary Tree from Descriptions 
+HashMap<Integer, TreeNode>
+    My map stores value → TreeNode.
+    Purpose: Create only one node for each value and reuse it whenever it appears again.
+    It does NOT store parent → child.
+
+
+HashSet<Integer>
+    My set stores only child values.
+    Purpose: Find the root.
+    The node that is never a child is the root.
+    For each description [parent, child, isLeft]:
+    If parent node doesn't exist → create it.
+    If child node doesn't exist → create it.
+
+
+Connect:
+    isLeft == 1 → parent.left = child
+    isLeft == 0 → parent.right = child
+    Add the child value to the set.
+
+Finally:
+    Traverse the map.
+    The value not present in the child set is the root.
+*/
