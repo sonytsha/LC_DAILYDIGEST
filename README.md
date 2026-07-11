@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0841-keys-and-rooms) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
