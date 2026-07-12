@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0240-search-a-2d-matrix-ii) |
 | [1539-kth-missing-positive-number](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1901-find-a-peak-element-ii) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0222-count-complete-tree-nodes) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
@@ -351,11 +353,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0222-count-complete-tree-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0222-count-complete-tree-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Number Theory
 |  |
