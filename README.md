@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1797-design-authentication-manager](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1797-design-authentication-manager) |
 | [1995-count-special-quadruplets](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1995-count-special-quadruplets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0622-design-circular-queue) |
 | [0817-linked-list-components](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0817-linked-list-components) |
 | [1670-design-front-middle-back-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1670-design-front-middle-back-queue) |
+| [1797-design-authentication-manager](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1797-design-authentication-manager) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0622-design-circular-queue) |
 | [1670-design-front-middle-back-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1670-design-front-middle-back-queue) |
+| [1797-design-authentication-manager](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1797-design-authentication-manager) |
 ## Queue
 |  |
 | ------- |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1670-design-front-middle-back-queue) |
+| [1797-design-authentication-manager](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1797-design-authentication-manager) |
 ## Data Stream
 |  |
 | ------- |
