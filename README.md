@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0396-rotate-function) |
 | [0560-subarray-sum-equals-k](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0746-min-cost-climbing-stairs) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0061-rotate-list) |
+| [0622-design-circular-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0622-design-circular-queue) |
 | [0817-linked-list-components](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0817-linked-list-components) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2074-reverse-nodes-in-even-length-groups) |
@@ -397,4 +399,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
