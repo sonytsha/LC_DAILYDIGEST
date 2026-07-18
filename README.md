@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1340-jump-game-v) |
 | [1539-kth-missing-positive-number](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1670-design-front-middle-back-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1670-design-front-middle-back-queue) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0061-rotate-list) |
 | [0622-design-circular-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0622-design-circular-queue) |
 | [0817-linked-list-components](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0817-linked-list-components) |
+| [1670-design-front-middle-back-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1670-design-front-middle-back-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -403,8 +405,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0622-design-circular-queue) |
+| [1670-design-front-middle-back-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1670-design-front-middle-back-queue) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0622-design-circular-queue) |
+| [1670-design-front-middle-back-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1670-design-front-middle-back-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1670-design-front-middle-back-queue) |
+## Data Stream
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
