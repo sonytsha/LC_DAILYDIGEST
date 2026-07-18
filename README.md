@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1901-find-a-peak-element-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1995-count-special-quadruplets) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2126-destroying-asteroids) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0788-rotated-digits) |
 | [1840-maximum-building-height](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
