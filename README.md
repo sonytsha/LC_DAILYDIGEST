@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0560-subarray-sum-equals-k) |
 | [0817-linked-list-components](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0817-linked-list-components) |
 | [1331-rank-transform-of-an-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1331-rank-transform-of-an-array) |
+| [1399-count-largest-group](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1399-count-largest-group) |
 | [1496-path-crossing](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0788-rotated-digits) |
+| [1399-count-largest-group](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1399-count-largest-group) |
 | [1840-maximum-building-height](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0451-sort-characters-by-frequency) |
+| [1399-count-largest-group](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1399-count-largest-group) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3591-check-if-any-element-has-prime-frequency) |
