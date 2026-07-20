@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0817-linked-list-components) |
 | [0860-lemonade-change](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0860-lemonade-change) |
 | [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1340-jump-game-v) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1260-shift-2d-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1901-find-a-peak-element-ii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2553-separate-the-digits-in-an-array) |
 | [3242-design-neighbor-sum-service](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3242-design-neighbor-sum-service) |
