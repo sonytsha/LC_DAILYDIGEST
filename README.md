@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0035-search-insert-position) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3737-count-subarrays-with-majority-element-i) |
