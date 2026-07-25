@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3536-maximum-product-of-two-digits](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
