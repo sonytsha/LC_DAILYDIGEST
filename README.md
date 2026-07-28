@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3838-weighted-word-mapping](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -451,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
