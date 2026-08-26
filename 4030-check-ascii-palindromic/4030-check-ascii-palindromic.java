@@ -4,11 +4,11 @@ class Solution {
         int len = s.length();
         for(int i=0;i<len;i++){
             char curr = s.charAt(i);
-            System.out.println("curr = " + curr);
+           // System.out.println("curr = " + curr);
             int AsciiValue = (int)curr;
-            System.out.println("AsciiValue = " + AsciiValue);
+           // System.out.println("AsciiValue = " + AsciiValue);
             String str = Integer.toBinaryString(AsciiValue);
-            System.out.println("str = " + str);
+           // System.out.println("str = " + str);
             if(str.length() < 8){
                 int count = 8 - str.length();
                 while(count>0){
@@ -17,7 +17,7 @@ class Solution {
                 }
             }
             finalStr += str;
-            System.out.println("finalStr = " + finalStr);
+           // System.out.println("finalStr = " + finalStr);
         }
         return isPalindrome(finalStr);
     }
