@@ -1,23 +1,23 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
         int len = nums.length;
-        if(len==1) return 0;
-        int mini = Integer.MAX_VALUE;
-        for(int i=0;i<len;i++){
-            int firsthalf = Integer.MIN_VALUE;
-            for(int j=0;j<=i;j++){
-                firsthalf  = Math.max(firsthalf, nums[j]);
-                //System.out.println("firsthalf is :" + firsthalf);
-            }
-            int secondhalf = Integer.MAX_VALUE;
-            for(int j= i;j<len;j++){
-                secondhalf = Math.min(secondhalf, nums[j]);
-                //System.out.println("secondhalf is :" + secondhalf);
-            }
-            if(firsthalf - secondhalf <= k){
-                return i;
-            }
+        int[] prefixMax = new int[len];
+        prefixMax[0] = nums[0];
+        for(int i=1;i<len;i++){
+            prefixMax[i] = Math.max( prefixMax[i-1] , nums[i]) ;
         }
-        return mini == Integer.MAX_VALUE ? -1 : mini;
+        // 5 5 6 9
+        //10 5 5 4
+        int[] suffixMin = new int[len];
+        suffixMin[len-1] = nums[len-1];
+        for(int i = len-2;i>=0;i--){
+            suffixMin[i] = Math.min(suffixMin[i+1] , nums[i]);
+        }
+        // 3 5 6
+        // 6 3 1 
+        for(int i=0;i<len;i++){
+            if(prefixMax[i] - suffixMin[i] <=k) return i;
+        }
+        return -1;
     }
 }
