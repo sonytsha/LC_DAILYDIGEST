@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0062-unique-paths) |
+| [0223-rectangle-area](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0223-rectangle-area) |
 | [0396-rotate-function](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0788-rotated-digits) |
@@ -470,5 +471,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
