@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0062-unique-paths) |
 | [0223-rectangle-area](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0628-maximum-product-of-three-numbers) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0231-power-of-two) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
