@@ -16,3 +16,12 @@ class Solution {
         sublist.remove(sublist.size() - 1);
     }
 }
+
+/* 
+
+Variable	Type	Mutable?	Need remove/undo?
+sum	int	No	❌
+substr	String	No	❌
+sublist	ArrayList	Yes	✅
+
+*/
