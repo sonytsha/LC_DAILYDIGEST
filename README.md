@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0035-search-insert-position) |
 | [0064-minimum-path-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0079-word-search) |
 ## Stack
 |  |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0222-count-complete-tree-nodes) |
