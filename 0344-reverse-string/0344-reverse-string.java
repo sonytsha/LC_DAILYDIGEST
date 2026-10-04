@@ -1,12 +1,13 @@
 class Solution {
     public void reverseString(char[] s) {
-        revu(s,0, s.length-1);
+        recursion(s, 0, s.length-1);
     }
-    public void revu(char[] s, int i , int n){
-        if(i >= n) return;
-        char first = s[i];
-        s[i] = s[n];
-        s[n] = first;
-        revu(s,i+1,n-1);
+    public void recursion(char[] s , int start, int end){
+        if(start > end) return;
+
+        char swap = s[start];
+        s[start] = s[end];
+        s[end] = swap;
+        recursion(s, start+1, end-1);
     }
 }
