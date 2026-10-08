@@ -1,25 +1,27 @@
 class Solution {
-    List<List<Integer>> ans = new ArrayList<>();
     public List<List<Integer>> permute(int[] nums) {
-        ans = new ArrayList<>();
-        boolean[] freq = new boolean[nums.length];
-        recursion(nums, new ArrayList<>(), ans, freq);
+        List<List<Integer>> ans = new ArrayList<>();
+        recursion(nums, ans, 0);
         return ans;
     }
-    public void recursion(int[] nums, List<Integer> list, List<List<Integer>> ans, boolean[] freq){
-        if(list.size() == nums.length) {
+    public void swap(int start, int end, int[] nums){
+        int hold = nums[start];
+        nums[start] = nums[end];
+        nums[end] = hold;
+    }
+    public void recursion(int[] nums, List<List<Integer>> ans, int index){
+        if(index == nums.length) {
+            List<Integer> list = new ArrayList<>();
+            for(int i=0;i<nums.length;i++){
+                list.add(nums[i]);
+            }
             ans.add(new ArrayList<>(list));
             return;
         }
-        for(int i=0;i<nums.length;i++){
-            if(freq[i] != true){
-                freq[i] = true;
-                list.add(nums[i]);
-                recursion(nums, list, ans, freq);
-                freq[i] = false;
-                list.remove(list.size()-1);
-            }
+        for(int i = index ;i< nums.length;i++){
+            swap(i,index, nums);
+            recursion(nums, ans, index+1);
+            swap(i,index, nums);
         }
-        
     }
 }
