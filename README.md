@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0078-subsets) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0090-subsets-ii) |
