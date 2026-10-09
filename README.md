@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0836-rectangle-overlap) |
 | [1399-count-largest-group](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1399-count-largest-group) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1979-find-greatest-common-divisor-of-array) |
