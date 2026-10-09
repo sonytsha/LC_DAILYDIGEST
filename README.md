@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1496-path-crossing](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1496-path-crossing) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Recursion
 |  |
 | ------- |
