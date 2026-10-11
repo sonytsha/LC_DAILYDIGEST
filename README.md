@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3225-maximum-score-from-grid-operations) |
 | [3242-design-neighbor-sum-service](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3242-design-neighbor-sum-service) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3689-maximum-total-subarray-value-i) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0231-power-of-two) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1995-count-special-quadruplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Segment Tree
 |  |
 | ------- |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0509-fibonacci-number) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Memoization
 |  |
 | ------- |
