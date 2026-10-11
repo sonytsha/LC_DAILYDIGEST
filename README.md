@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3225-maximum-score-from-grid-operations) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1291-sequential-digits) |
 | [1995-count-special-quadruplets](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1995-count-special-quadruplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Segment Tree
 |  |
