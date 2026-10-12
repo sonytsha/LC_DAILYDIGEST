@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0347-top-k-frequent-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0064-minimum-path-sum) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0079-word-search) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0078-subsets) |
@@ -545,4 +549,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
