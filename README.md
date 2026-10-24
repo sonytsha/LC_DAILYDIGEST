@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2409-count-days-spent-together](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2409-count-days-spent-together) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2409-count-days-spent-together](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/2409-count-days-spent-together) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sonytsha/LC_DAILYDIGEST/tree/master/3591-check-if-any-element-has-prime-frequency) |
